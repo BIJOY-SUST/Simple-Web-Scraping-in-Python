@@ -66,5 +66,5 @@ Web-Scraping A collection of small programs that extract data from a website and
    
   `Save it to a CSV file-`
    ```python      
-           all_seasons.to_csv('content'/'drive'/'My Drive'/'Colab Notebooks'/'Data Science Lab'/'game_of_thrones.csv');
+           all_seasons.to_csv('content'/'drive'/'My Drive'/'Colab Notebooks'/'game_of_thrones.csv');
    ```
