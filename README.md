@@ -1,1 +1,1 @@
-# Simple-Web-Scraping-in-Python-Using-BeautifulSoup
+### A list of resources and introductory notebooks for Web Scraping in Python using BeautifulSoup
