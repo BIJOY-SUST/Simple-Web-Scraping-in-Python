@@ -1,2 +1,5 @@
-## 𝑾𝒉𝒂𝒕 𝒊𝒔 𝒕𝒉𝒊𝒔 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚?
-𝑨 𝒍𝒊𝒔𝒕 𝒐𝒇 𝒓𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔 𝒂𝒏𝒅 𝒊𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒐𝒓𝒚 𝒏𝒐𝒕𝒆𝒃𝒐𝒐𝒌𝒔 𝒇𝒐𝒓 𝑾𝒆𝒃 𝑺𝒄𝒓𝒂𝒑𝒊𝒏𝒈 𝒊𝒏 𝑷𝒚𝒕𝒉𝒐𝒏 𝒖𝒔𝒊𝒏𝒈 𝑩𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍𝑺𝒐𝒖𝒑.
+# What is this Repository?
+ 
+A list of resources and introductory notebooks for Web Scraping in Python using BeautifulSoup.
+
+Resources to make a Web Scraper is in [*resources.md*](https://github.com/BIJOY-SUST/Simple-Web-Scraping-in-Python/blob/master/Resources.md).
